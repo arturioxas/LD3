@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 First line added by Arturas Jonkus
-Line specifically added to cause conflict
-=======
 A line added by Danielius Visockas
->>>>>>> bb22198e66f8289ee8bdd95ace497d16ceef28cf
